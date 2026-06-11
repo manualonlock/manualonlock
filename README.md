@@ -25,7 +25,7 @@
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**gmail-unread**](https://github.com/manualonlock/gmail-unread) | A tested Python CLI and automation pipeline for multi-account Gmail triage, Telegram delivery, deduplication, local secret storage, and scheduled Codex-powered digests. |
+| [**gmail-unread**](https://github.com/manualonlock/gmail-unread) | A multi-account Gmail automation pipeline with five composable CLIs, a 67-test suite, and green CI across Python 3.12–3.14. |
 | [**packet-sniffer**](https://github.com/manualonlock/packet-sniffer) | A Go packet-capture tool with Ethernet, ARP, IPv4, and ICMP parsing plus terminal rendering. |
 | [**terminal-profile**](https://github.com/manualonlock/terminal-profile) | A portable terminal workspace spanning Neovim, Ghostty, Zsh, shell installers, and prompt configuration. |
 | [**macos-profile**](https://github.com/manualonlock/macos-profile) | Scripts and configuration for bootstrapping a productive macOS development environment. |
