@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="manualonlock — automation, systems, and developer tooling" width="100%">
+  <img src="./assets/profile-banner.svg?v=50de5f6" alt="manualonlock profile banner" width="100%">
 </div>
 
 <p align="center">
