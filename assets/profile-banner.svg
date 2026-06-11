@@ -32,9 +32,6 @@
       manualonlock
     </text>
     <rect x="0" y="151" width="530" height="4" rx="2" fill="url(#accent)"/>
-    <text x="0" y="202" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" letter-spacing=".5">
-      automation · systems · developer tooling
-    </text>
   </g>
 
 </svg>
