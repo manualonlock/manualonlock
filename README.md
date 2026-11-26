@@ -1,35 +1,3 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg?v=50de5f6" alt="manualonlock profile banner" width="100%">
-</div>
-
-<p align="center">
-  I build practical tools that remove repetitive work, sharpen local workflows,
-  and make complex systems easier to operate.
-</p>
-
-<p align="center">
-  <a href="https://github.com/manualonlock?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
-  </a>
-</p>
-
-## What I work on
-
-- **Automation that survives real use** — OAuth flows, local secret storage,
-  delivery deduplication, scheduled agents, and failure-aware integrations.
-- **Developer environments** — reproducible terminal, Neovim, shell, and macOS
-  setups designed to stay understandable.
-- **Systems fundamentals** — networking tools and protocol parsing in Go.
-
-## Selected work
-
-| Project | What it demonstrates |
-| --- | --- |
-| [**gmail-unread**](https://github.com/manualonlock/gmail-unread) | A multi-account Gmail automation pipeline with five composable CLIs, a 67-test suite, and green CI across Python 3.12–3.14. |
-| [**packet-sniffer**](https://github.com/manualonlock/packet-sniffer) | A Go packet-capture tool with Ethernet, ARP, IPv4, and ICMP parsing plus terminal rendering. |
-| [**terminal-profile**](https://github.com/manualonlock/terminal-profile) | A portable terminal workspace spanning Neovim, Ghostty, Zsh, shell installers, and prompt configuration. |
-| [**macos-profile**](https://github.com/manualonlock/macos-profile) | Scripts and configuration for bootstrapping a productive macOS development environment. |
-
 ## Daily setup
 
 | Platform | Shell | Editor | Terminal | Configuration |
